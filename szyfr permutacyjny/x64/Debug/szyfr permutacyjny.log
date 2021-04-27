@@ -1,0 +1,3 @@
+﻿  szyfr permutacyjny.cpp
+D:\szyfry\szyfr permutacyjny\szyfr permutacyjny.cpp(45): warning C4101: "czynnosc": lokalna zmienna, do której nie istnieje odwołanie
+  szyfr permutacyjny.vcxproj -> D:\szyfry\szyfr permutacyjny\x64\Debug\szyfr permutacyjny.exe
